@@ -1,2 +1,4 @@
 message:
   100
+server:
+  port: 9003
